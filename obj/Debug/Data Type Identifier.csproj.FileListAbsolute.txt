@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Data Type Identifier\Data Type Identifier\bin\Debug\Data Type Identifier.exe.config
+C:\Users\DELL\source\repos\Data Type Identifier\Data Type Identifier\bin\Debug\Data Type Identifier.exe
+C:\Users\DELL\source\repos\Data Type Identifier\Data Type Identifier\bin\Debug\Data Type Identifier.pdb
+C:\Users\DELL\source\repos\Data Type Identifier\Data Type Identifier\obj\Debug\Data Type Identifier.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Data Type Identifier\Data Type Identifier\obj\Debug\Data Type Identifier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Data Type Identifier\Data Type Identifier\obj\Debug\Data Type Identifier.exe
+C:\Users\DELL\source\repos\Data Type Identifier\Data Type Identifier\obj\Debug\Data Type Identifier.pdb
